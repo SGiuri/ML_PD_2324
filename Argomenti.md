@@ -33,3 +33,6 @@ necessari per la raccolta dei dati,
             (base) C:\Windows\..\> conda create -n myenv python=3.10 pandas jupyter seaborn scikit-learn keras tensorflow 
             ```
         - Jupyter Notebook
+
+
+        Ciao

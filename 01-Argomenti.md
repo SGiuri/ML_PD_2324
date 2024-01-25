@@ -45,8 +45,18 @@ necessari per la raccolta dei dati,
 # Lezione 2 - 19/01/2024
 - Impostazione di un problema di Data Science
 - Checklist [Secondo Aurelien Geron]
+- Impostazione di un algoritmo di ML:
+    - Procurarsi i dati
+    - Un primo sguardo ai dati
+    - Train/Test Split
+    - Analisi delle correlazioni
+    - Feature Engineering
 
-# Lezione 3 - 
+# Lezione 3 - 26/01/2024
+- Risoluzione di un problema di ML:
+    - Preparare i dati
+    - Pulizia dei i dati
+    - 
 
 # Lezione 4 - 
 

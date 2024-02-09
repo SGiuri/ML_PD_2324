@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from numpy import unravel_index
 
 
+
 def show_multiple_img(images, targets):
     """
     Visualizza una griglia di immagini con i relativi titoli.
@@ -53,3 +54,6 @@ def show_multiple_img(images, targets):
     
     plt.tight_layout()  # Ottimizza la disposizione delle sottofigure.
     plt.show()  # Visualizza la figura.
+
+
+
